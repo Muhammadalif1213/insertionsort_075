@@ -54,3 +54,5 @@ void insertionsort() {
 	}
 }
 
+void display() {
+}
