@@ -59,4 +59,7 @@ void display() {
 	cout << "Element Array yang Telah Tersusun" << endl;
 	cout << "\n ==============================" << endl;
 
-	
+	for (int j = 0; j < n; j++) {
+		cout << arr[j] << " ";
+	}
+}
